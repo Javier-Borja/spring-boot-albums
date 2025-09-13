@@ -1,0 +1,5 @@
+com\devsite\adventure_works\AdventureWorksApplication.class
+com\devsite\adventure_works\controller\AlbumController.class
+com\devsite\adventure_works\config\ConfigWebClient.class
+com\devsite\adventure_works\dto\AlbumDto.class
+com\devsite\adventure_works\service\AlbumService.class
